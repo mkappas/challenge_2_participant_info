@@ -24,8 +24,8 @@ Thankfully, one of our crew members remembers that the MD5 hashes in the `secret
 
 ## Rules and Instructions
 
+* One member from each team should clone this repository into the root of their shared project directory (`/bask/projects/e/edmondac-bc23-team[1-10]`). After cloning you should have a directory `/bask/projects/e/edmondac-bc23-team[1-10]/challenge_2_participant_info`. Do not rename it or change the folder structure. Others can clone it in a different directory to experiment (for example in their home directories), but we will only grade solutions that are found in the aforementioned shared folder path.
 * Submit one non-array job for each of the three secrets. You are allowed to submit more jobs for the same file, if for example a previous job failed, but you should solve all hashes from each of the three secrets files in the same job.
-* Keep the three `secrets` within your project directory and not in one of the team member's home directories. You can of course experiment in your home folder but we will only grade solutions that are found in the project folder.
 * Each of the three `secrets` directories should include four files only. Those are the `secrets#.txt` file with the hashes that we provide, a job submission script, a `slurm-*.out` file and a `slurm-*.stats` file.
 
 ## Marking Scheme
