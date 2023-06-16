@@ -35,9 +35,9 @@ Thankfully, one of our crew members remembers that the MD5 hashes in the `secret
 * Up to 5 points for each of the first two sub-challenges.
 * **Bonus:** Up to 7 points for the third sub-challenge plus 3, 2, 1 points for the team that correctly solves all hashes from the third sub-challenge first, second and third respectively.
 
-for a maximum of 30 points.
+The maximum number of points that a team can get is 30.
 
-Please also note that the challenge is designed in such a way that we will allocate the points for the first two sub-challenges at the end of the first day, but we will allocate and announce the points for the last sub-challenge in the morning of the second day.
+Please also note that the challenge is designed in such a way that we will allocate the points for the first two sub-challenges at the end of the first day, but we will allocate the points for the last sub-challenge in the morning of the second day. Finally, we will announce all points in day 2.
 
 ## Requirements
 
